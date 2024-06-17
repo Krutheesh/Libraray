@@ -52,10 +52,16 @@
   }
 }
 
-@media (max-width:760px){
+@media (max-width:768px){
   .card{
     width: 70%;
   }
+  .shimmer{
+    justify-content: center;
+  }
+}
+@media (min-width:768px) and (max-width:1020px){
+ 
   .shimmer{
     justify-content: center;
   }

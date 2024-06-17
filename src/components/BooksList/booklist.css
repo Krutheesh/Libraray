@@ -46,3 +46,9 @@ box-shadow: 0px 0px 10px 0px gray;
     justify-content: center;
   }
 }
+
+@media (min-width:769px) and (max-width:1024px){
+  .booklist{
+    justify-content: center;
+  }
+}
