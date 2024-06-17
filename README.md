@@ -1,3 +1,60 @@
+
+# Personal Bookshelf
+
+Personal Bookshelf is a React application that allows users to search for books using an API, view the search results, and add books to their personal bookshelf.
+
+## Features
+
+- Search for books by entering a title or author.
+- View search results with book details.
+- Add selected books to a personal bookshelf.
+
+## Getting Started
+
+Follow these instructions to get a copy of the project up and running on your local machine.
+
+### Prerequisites
+
+Ensure you have the following installed:
+
+- [Node.js](https://nodejs.org/) (which includes npm)
+- [Git](https://git-scm.com/)
+
+### Installation
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/Krutheesh/Libraray.git
+
+
+
+2. **Navigate to the project directory**
+
+### `cd Libraray`
+
+3. **Install dependencies**
+
+### `npm install`
+
+4. **Start the development server**
+
+### `npm start`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
