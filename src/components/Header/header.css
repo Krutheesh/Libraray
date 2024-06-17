@@ -1,0 +1,38 @@
+
+.header-lg{
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ padding: 1rem 2rem;
+
+
+}
+
+.header_title{
+  font-style: italic;
+  font-weight: bold;
+}
+.bookshelf{
+  padding:  0.7rem 1rem;
+  background-color: rgb(14 165 233);
+  border-radius: 5px;
+  font-weight: bold;
+  text-decoration: none;
+  color: white;
+}
+.header-sm{
+  display: none;
+}
+@media(max-width:600px ){
+  .header-lg{
+   
+   display: none;
+   
+   }
+   .header-sm{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+   }
+}
